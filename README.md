@@ -4,6 +4,14 @@ A macropad with 4x3 11 switches, 1 rotary switch encoder
 This macropad will be frequently used paired with my macbook so I don't have to deal with the problem of remembering shortcuts in Fusion360, Kicad, opening tabs in chrome, and other software apps / tools
 I can also use the rotary encoder to change the LED's colors
 
+Tools / Softwares / Resources
+- KiCad
+- GrabCad
+- Hack Club
+- Fusion360
+- 3D Printer (not yet)
+- Soldering machine (not yet)
+
 
 BOM
 - 1x PCB
@@ -17,3 +25,4 @@ BOM
 - 11x SK6812 MINI-E LEDs E
 
 This macropad was inspired and funded by the Hack Club Hackpad Program
+This project is not complete yet until I receive my BOM
