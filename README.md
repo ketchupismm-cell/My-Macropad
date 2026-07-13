@@ -4,6 +4,14 @@ A macropad with 4x3 11 switches, 1 rotary switch encoder
 This macropad will be frequently used paired with my macbook so I don't have to deal with the problem of remembering shortcuts in Fusion360, Kicad, opening tabs in chrome, and other software apps / tools
 I can also use the rotary encoder to change the LED's colors
 
+Features
+- 11 keys with LED
+- Rotary Encoder
+- Custom knob for rotary encoder
+- Custom case for PCB
+- Angled macropad
+- 
+
 Tools / Softwares / Resources
 - KiCad
 - GrabCad
