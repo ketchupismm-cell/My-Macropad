@@ -1,8 +1,12 @@
 # Ketchupad
 
 A macropad with 4x3 11 switches, 1 rotary switch encoder
-This macropad will be frequently used paired with my macbook so I don't have to deal with the problem of remembering shortcuts in Fusion360, Kicad, opening tabs in chrome, and other software apps / tools
-I can also use the rotary encoder to change the LED's colors
+- This macropad will be frequently used paired with my macbook so I don't have to deal with the problem of remembering shortcuts in Fusion360, Kicad, opening tabs in chrome, and other software apps / tools
+- I can also use the rotary encoder to change the LED's colors
+
+Challenges
+- The worst part of this work was the firmware. The tutorial was hard to follow and a portion of making the QMK was vibecoded
+- Making the case also took long because I added many details to be more unqiue and less boxy 
 
 Features
 - 11 keys with LED
