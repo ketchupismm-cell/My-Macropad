@@ -51,5 +51,5 @@ Extra
 - This macropad was inspired and funded by the Hack Club Hackpad Program
 - This project is not complete yet until I receive my products
 - This took way too long
-- I had to like vibecode half the Firmware because I didn't understand the tutorial
+- I had to like vibecode downloading and following the turoial for the Firmware because I didn't understand anything
 
