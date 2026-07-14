@@ -1,1 +1,138 @@
-
+{
+    "manufacturer": "Ketchupad",
+    "keyboard_name": "Ketchupad",
+    "maintainer": "you",
+    "url": "https://github.com/ketchupismm-cell/My-Macropad",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0001",
+        "device_version": "0.0.1"
+    },
+    "matrix_pins": {
+        "rows": [
+            "GP6",
+            "GP7",
+            "GP0"
+        ],
+        "cols": [
+            "GP1",
+            "GP2",
+            "GP4",
+            "GP3"
+        ]
+    },
+    "diode_direction": "COL2ROW",
+    "encoder": {
+        "rotary": [
+            {
+                "pin_a": "GP27",
+                "pin_b": "GP28"
+            }
+        ]
+    },
+    "ws2812": {
+        "pin": "GP26"
+    },
+    "rgblight": {
+        "led_count": 11,
+        "animations": {
+            "static_light": true,
+            "breathing": true,
+            "rainbow_mood": true
+        }
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "matrix": [
+                        0,
+                        0
+                    ],
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "matrix": [
+                        0,
+                        1
+                    ],
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "matrix": [
+                        0,
+                        2
+                    ],
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "matrix": [
+                        0,
+                        3
+                    ],
+                    "x": 3,
+                    "y": 0
+                },
+                {
+                    "matrix": [
+                        1,
+                        0
+                    ],
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "matrix": [
+                        1,
+                        1
+                    ],
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "matrix": [
+                        1,
+                        2
+                    ],
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "matrix": [
+                        1,
+                        3
+                    ],
+                    "x": 3,
+                    "y": 1
+                },
+                {
+                    "matrix": [
+                        2,
+                        0
+                    ],
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "matrix": [
+                        2,
+                        1
+                    ],
+                    "x": 1,
+                    "y": 2
+                },
+                {
+                    "matrix": [
+                        2,
+                        2
+                    ],
+                    "x": 2,
+                    "y": 2
+                }
+            ]
+        }
+    }
+}
