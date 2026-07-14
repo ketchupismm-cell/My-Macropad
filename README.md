@@ -46,6 +46,8 @@ PCB Model
 CAD Case Model + PCB Model 
 <img width="1532" height="1050" alt="image" src="https://github.com/user-attachments/assets/17488632-a849-4bdf-a476-b60c04b7ea51" />
 <img width="1040" height="488" alt="image" src="https://github.com/user-attachments/assets/d00f956e-f2e3-4e0b-868d-7693b1e0da83" />
+<img width="1140" height="952" alt="image" src="https://github.com/user-attachments/assets/02e87d9e-ab3f-428a-9bcc-e9e19a6bc5bb" />
+
 
 Extra
 - This macropad was inspired and funded by the Hack Club Hackpad Program
